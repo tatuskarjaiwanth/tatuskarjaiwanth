@@ -1,6 +1,6 @@
 # Hi, I'm Jaiwanth
 <p align=center>
-  <img src='https://pesu-badges-api.vercel.app/badge/pesu' width='98px' height='30px' />
+  <img src='https://pesu-badges-api.vercel.app/badge/pesu' width='98px' height='30px' title="PES University" />
 </p>
 <br>
 
