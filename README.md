@@ -1,16 +1,11 @@
-### Hi there 👋
+# Hi, I'm Jaiwanth
+<p align=center>
+  <img src='https://pesu-badges-api.vercel.app/badge/pesu' width='98px' height='30px' />
+</p>
+<br>
 
-<!--
-**tatuskarjaiwanth/tatuskarjaiwanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Wed Development and Data Structures
+- 👯 I’m looking to collaborate on Webdev and ML projects
+- 💬 Ask me about Data Structures, Machine Learning and Data Science
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaiwanthtatuskar/)
+- 😄 Pronouns: he/him
