@@ -4,7 +4,7 @@
 </p>
 <br>
 
-- 🌱 I’m currently learning Wed Development and Data Structures
+- 🌱 I’m currently learning Web Development , Data Structures and Machine Learning
 - 👯 I’m looking to collaborate on Webdev and ML projects
 - 💬 Ask me about Data Structures, Machine Learning and Data Science
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaiwanthtatuskar/)
